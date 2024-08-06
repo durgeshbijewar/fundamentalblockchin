@@ -1,0 +1,26 @@
+how to create own crytocurency in  binance bitcoin?
+
+ans = create the metamask account on google crome
+and switch the test network
+
+how to create binance bitcoine account
+binance smart chain
+chin id = 56
+symbol = BNB
+block url = https://bscscan.com 
+
+test network = 
+selec tect network
+chin id = 92
+cureency symbol = BNB
+url = https://bscscan.com
+
+going to binance smart chin faucet
+and paste  the public address 
+give you 1 bnb coin
+
+going to trustswap.com 
+create coin and connect the wallet
+
+succesfully create the wallet
+import token in wallet send one account to another acccount
